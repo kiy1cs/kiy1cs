@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 - i'm a high school student in taiwan
-- learning anything possible related to software
+- learns anything related to software
 - larps with arch linux
 
 ---
 contacts:
 - Discord: @realkiy1cs325
 - Matrix: https://matrix.to/#/@realkiy1cs325:matrix.org
+---
+languages:
+- english
+- chinese
+- C++, C#, lua
