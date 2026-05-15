@@ -25,4 +25,4 @@ languages:
 - chinese
 - C++, C#, lua
 ---
-blogs: https://blogs.kiy1cs.workers.dev/
+blogs and more about me: https://blogs.kiy1cs.workers.dev/
