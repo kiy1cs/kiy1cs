@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - i'm a high school student in taiwan
 - learns anything related to software
-- larps with arch linux
 
 ---
 languages:
