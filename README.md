@@ -25,4 +25,5 @@ languages:
 - C++, C#, lua
 ---
 e-mail: kiy1cs@proton.me
+
 about me: https://blogs.kiy1cs.workers.dev/posts/about-me/
