@@ -24,4 +24,5 @@ languages:
 - chinese
 - C++, C#, lua
 ---
-blogs and more about me: https://blogs.kiy1cs.workers.dev/
+e-mail: kiy1cs@proton.me
+about me: https://blogs.kiy1cs.workers.dev/posts/about-me/
